@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.9dd9e12a.css",
+    "main.js": "/first-react-app/static/js/main.6315829a.js",
+    "static/js/787.4f2a3854.chunk.js": "/first-react-app/static/js/787.4f2a3854.chunk.js",
+    "static/media/fa-solid-900.ttf": "/first-react-app/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/first-react-app/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/first-react-app/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/first-react-app/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/first-react-app/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/img_project2.png": "/first-react-app/static/media/img_project2.4417330275f78faa31c3.png",
+    "static/media/img_project4.png": "/first-react-app/static/media/img_project4.494a4a914b5471b41f3e.png",
+    "static/media/img_project5.png": "/first-react-app/static/media/img_project5.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/first-react-app/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/img_project7.png": "/first-react-app/static/media/img_project7.48c9704ca7f8ce901038.png",
+    "static/media/img_project6.png": "/first-react-app/static/media/img_project6.01792c0bdc342bf4bf9c.png",
+    "static/media/img_project3.png": "/first-react-app/static/media/img_project3.6554473016d32b343f02.png",
+    "static/media/img_project1.svg": "/first-react-app/static/media/img_project1.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/first-react-app/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/first-react-app/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/first-react-app/index.html",
+    "main.9dd9e12a.css.map": "/first-react-app/static/css/main.9dd9e12a.css.map",
+    "main.6315829a.js.map": "/first-react-app/static/js/main.6315829a.js.map",
+    "787.4f2a3854.chunk.js.map": "/first-react-app/static/js/787.4f2a3854.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dd9e12a.css",
+    "static/js/main.6315829a.js"
+  ]
+}
