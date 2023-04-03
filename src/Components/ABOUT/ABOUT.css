@@ -1,0 +1,39 @@
+.about{
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+    background-color: #1ABC9C;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.prof_star{
+    color: #fff;
+    margin: 1.25rem 0 1.5rem;
+    display: flex;
+    align-items: center;
+}
+.prof_star::after{
+   content: "";
+   width: 7rem;
+   height: 3px;
+   background-color: #fff;
+   display: block;
+   border-radius: 1rem;
+}
+.prof_star::before{
+   content: "";
+   width: 7rem;
+   height: 3px;
+   background-color: #fff;
+   display: block;
+   border-radius: 1rem;
+}
+.head_text_prof{
+    font-size: 4rem;
+    line-height: 3.5rem;
+    text-align: center;
+}
+.lead {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #fff;
+}

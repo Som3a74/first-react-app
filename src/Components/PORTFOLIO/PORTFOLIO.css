@@ -1,0 +1,141 @@
+h2{
+    color: brown;
+}
+.img_prof{
+    margin-bottom: 3rem !important;
+}
+.img_prof img{
+    width: 100%;
+}
+.prof{
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+    background-color: #1ABC9C;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.head_text_prof{
+    font-size: 4rem;
+    line-height: 3.5rem;
+    text-align: center;
+}
+
+.prof_star{
+    color: #fff;
+    margin: 1.25rem 0 1.5rem;
+    display: flex;
+    align-items: center;
+}
+.prof_star::after{
+   content: "";
+   width: 7rem;
+   height: 3px;
+   background-color: #fff;
+   display: block;
+   border-radius: 1rem;
+}
+.prof_star::before{
+   content: "";
+   width: 7rem;
+   height: 3px;
+   background-color: #fff;
+   display: block;
+   border-radius: 1rem;
+}
+/*/////////////////////////////////////////////////////////////  */
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -1.5rem;
+    margin-left: -1.5rem;
+}
+.prof2::after{
+    content: "";
+    width: 6rem;
+    height: 3px;
+    background-color:black;
+    display: block;
+    border-radius: 1rem;
+}
+.prof2::before{
+    content: "";
+    width: 6rem;
+    height: 3px;
+    background-color:black;
+    display: block;
+    border-radius: 1rem;
+}
+.all_start{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+.all_img_prof img{
+    max-width: 100%;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+/* .all_img_prof img:hover{
+    
+} */
+.all_img_prof{
+    position: relative;
+    overflow: hidden;
+}
+.layer_img{
+    background-color: rgb(26, 188, 156,.7);
+    padding: 10px;
+    border-radius: 0.5rem;
+    width: 95%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+    transition: 3s all;
+}
+.all_img_prof:hover .layer_img{
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.layer_img i{
+    color: #fff;
+    font-size: 3em;
+    cursor: pointer;
+}
+
+
+.cont_layer{
+    position: relative;
+
+}
+.layer_img_all{
+    position: absolute;
+    z-index: 1000000000000000 !important;
+    background-color: #fff;
+    border-radius: 10px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    top: 95px;
+
+}
+.im_layer{
+    max-width: 100%;
+    margin-bottom: 30px;
+}
+.layer_i{
+    position: absolute;
+    color: #1abc9c;
+    font-size: 3rem !important;
+    top: 4%;
+    right: 3%;
+    cursor: pointer;
+}
